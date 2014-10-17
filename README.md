@@ -1,6 +1,5 @@
 hello-world
 ===========
 
-First use of github. 
-Testing a branch
-Lets see how this works
+Testing branches in github
+Lets see how this works.
